@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../3rdParty/RectangleBinPack/include/RectangleBinPack/GuillotineBinPack.h
+vector
+-
+Rect.h
+../3rdParty/RectangleBinPack/include/RectangleBinPack/Rect.h
+
+../3rdParty/RectangleBinPack/include/RectangleBinPack/MaxRectsBinPack.h
+vector
+-
+Rect.h
+../3rdParty/RectangleBinPack/include/RectangleBinPack/Rect.h
+
+../3rdParty/RectangleBinPack/include/RectangleBinPack/Rect.h
+vector
+-
+cassert
+-
+cstdlib
+-
+
+../3rdParty/brkgaAPI-src/src/BRKGA.h
+omp.h
+-
+algorithm
+-
+exception
+-
+stdexcept
+-
+Population.h
+../3rdParty/brkgaAPI-src/src/Population.h
+
+../3rdParty/brkgaAPI-src/src/MTRand.h
+iostream
+-
+climits
+-
+cstdio
+-
+ctime
+-
+cmath
+-
+
+../3rdParty/brkgaAPI-src/src/Population.h
+vector
+-
+algorithm
+-
+exception
+-
+stdexcept
+-
+
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/GuillotineBinPack.h
+vector
+-
+Rect.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/Rect.h
+
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/Rect.h
+vector
+-
+cassert
+-
+cstdlib
+-
+
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/ShelfBinPack.h
+GuillotineBinPack.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/GuillotineBinPack.h
+Rect.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/Rect.h
+vector
+-
+
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/SkylineBinPack.h
+vector
+-
+Rect.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/Rect.h
+GuillotineBinPack.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/GuillotineBinPack.h
+
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/main.cpp
+iostream
+-
+BRKGA.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/BRKGA.h
+MTRand.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/MTRand.h
+3rdParty/RectangleBinPack/SkylineBinPack.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/SkylineBinPack.h
+3rdParty/RectangleBinPack/ShelfBinPack.h
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/3rdParty/RectangleBinPack/ShelfBinPack.h
+RectangleBinPack/Rect.h
+-
+RectangleBinPack/GuillotineBinPack.h
+-
+RectangleBinPack/MaxRectsBinPack.h
+-
+

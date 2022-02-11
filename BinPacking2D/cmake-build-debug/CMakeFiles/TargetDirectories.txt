@@ -1,0 +1,3 @@
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/cmake-build-debug/CMakeFiles/BinPacking2D.dir
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vnrju/Documents/Disciplinas/Pesquisa Operacional/BinPacking2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
